@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://imgur.com/a/Ox7KKEi);
+  --theme-background-image: url(https://i.imgur.com/Y6YyLSb.png);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(207, 60, 112);
+  --main-theme-color: rgb(220, 24, 94);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.6);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://imgur.com/a/yYcMjbk);
+  --home-icon-image: url(https://imgur.com/a/xZc7MLc);
 
   /*
     Change your friends icon image position
@@ -65,14 +65,14 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(132, 230, 69, 0.05);
-  --mention-sider: rgba(132, 230, 69, 1);
-  --mention-hover-color: rgba(132, 230, 69, 0.08);
+  --mention-color: rgba(255, 242, 0, 0.05);
+  --mention-sider: rgba(255, 242, 0, 1);
+  --mention-hover-color: rgba(255, 242, 0, 0.08);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(209, 244, 187);
+  --category-hover-color: rgb(207, 60, 112);
 
   /*
     Change the unread server animation.
@@ -149,18 +149,18 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(222, 106, 31, 0.2);
+  --scrollbar-color: rgba(226, 105, 28, 0.2);
 
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f04747;
+  --unread-message-divider-color: #f0479c;
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: #ebc96e;
   --new-messages-bar-font-color: #fff;
 
   /*
@@ -191,7 +191,7 @@
   /*
     Folders
   */
-  --folder-background-color: #D1F4BB;
+  --folder-background-color: #ffaec9;
   --expanded-folder-background-color: transparent;
 
   /*
